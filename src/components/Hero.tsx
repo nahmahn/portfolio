@@ -4,7 +4,7 @@ import { FileText, FolderOpen } from 'lucide-react';
 
 import GridMotion from './ui/GridMotion';
 import DecryptedText from './ui/DecryptedText';
-import ShinyText from './ui/ShinyText';
+
 import Magnet from './ui/Magnet';
 
 const Hero = () => {
@@ -14,11 +14,7 @@ const Hero = () => {
                 <GridMotion items={['E', 'N', 'G', 'I', 'N', 'E', 'E', 'R', 'A', 'I', 'C', 'O', 'D', 'E', 'D', 'E', 'V']} />
             </div>
             <div className="relative z-10 max-w-4xl w-full text-center">
-                <AnimatedContent distance={30} direction="vertical" delay={0.1}>
-                    <div className="inline-block px-4 py-1.5 border border-white/10 rounded-full mb-8 bg-black/40 backdrop-blur-sm">
-                        <ShinyText text="Electrical Engineering & AI" disabled={false} speed={3} className="text-[10px] md:text-xs font-mono tracking-[0.2em] uppercase" />
-                    </div>
-                </AnimatedContent>
+
 
                 <AnimatedContent distance={30} direction="vertical" delay={0.2}>
                     <div className="h-24 md:h-32 mb-8 flex items-center justify-center">

@@ -71,7 +71,7 @@ export const portfolioData: PortfolioData = {
         email: "namjain06@gmail.com",
         phone: "+91 8076161952",
         github: "https://github.com/nahmahn",
-        linkedin: "https://www.linkedin.com/in/",
+        linkedin: "https://www.linkedin.com/in/nahmahn/",
         resume: "/Naman_Resume.pdf",
         role: "Electrical Engineering & AI",
         location: "New Delhi, India",
