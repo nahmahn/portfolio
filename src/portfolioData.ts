@@ -154,7 +154,7 @@ export const portfolioData: PortfolioData = {
             image: "/project-railway.jpg",
             tags: ["Python", "TensorFlow", "OpenCV", "FastAPI"],
             link: "#",
-            github: "https://github.com/nahmahn",
+            github: "https://github.com/nahmahn/Railway_tampering",
             featured: true,
             badge: "Hack4Delhi Top 30",
             points: [
@@ -242,7 +242,7 @@ export const portfolioData: PortfolioData = {
             image: "/project-vehicle.jpg",
             tags: ["PyTorch", "DETR", "Faster R-CNN", "DeepSORT"],
             link: "#",
-            github: "https://github.com/nahmahn",
+            github: "https://github.com/nahmahn/Vehicle_detection_analysis",
             points: [
                 "DETR (transformer-based) vs Faster R-CNN comparison",
                 "DeepSORT for multi-object tracking",
