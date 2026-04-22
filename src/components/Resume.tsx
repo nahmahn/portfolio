@@ -22,7 +22,7 @@ const Resume = () => {
                             </div>
                             <div>
                                 <h3 className="text-white font-medium">Naman_Resume.pdf</h3>
-                                <p className="text-xs text-gray-500">Latest updated: February 2025</p>
+                                <p className="text-xs text-gray-500">Latest updated: April 2026</p>
                             </div>
                         </div>
                         <div className="flex gap-3">
