@@ -88,7 +88,7 @@ const About = () => {
                                     </div>
                                     <div>
                                         <h3 className="text-white font-medium mb-1">Hackathons</h3>
-                                        <p className="text-sm text-gray-500">Top 30 at Hack4Delhi, DTTE funding recipient</p>
+                                        <p className="text-sm text-gray-500">Winner at Hack4Delhi, DTTE funding recipient</p>
                                     </div>
                                 </div>
                             </div>

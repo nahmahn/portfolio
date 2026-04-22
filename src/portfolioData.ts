@@ -80,7 +80,7 @@ export const portfolioData: PortfolioData = {
     about: {
         intro: "I'm an Electrical Engineering undergraduate at Delhi Technological University with a strong academic record (CGPA 8.8). My foundation in electrical systems gives me a unique perspective on hardware-software integration and signal processing applications in AI.",
         journey: "My journey into AI and Computer Vision began with a fascination for how machines can interpret visual information. I've since built expertise in multimodal AI systems, RAG architectures, and computer vision pipelines—focusing on practical applications that solve real problems.",
-        philosophy: "I prioritize systems thinking: understanding not just how to train models, but how to evaluate them rigorously, deploy them reliably, and integrate them into production workflows. My experience includes a Generative AI internship at TestingXperts, recognition at Hack4Delhi (Top 30 out of 2500+ teams), and funding from DTTE, Government of Delhi."
+        philosophy: "I prioritize systems thinking: understanding not just how to train models, but how to evaluate them rigorously, deploy them reliably, and integrate them into production workflows. My experience includes a Generative AI internship at TestingXperts, recognition at Hack4Delhi (Winner out of 2500+ teams), and funding from DTTE, Government of Delhi."
     },
     education: [
         {
@@ -115,10 +115,10 @@ export const portfolioData: PortfolioData = {
         {
             company: "Hack4Delhi Hackathon",
             location: "New Delhi, India",
-            role: "Top 30 at Hack4Delhi",
+            role: "Winner at Hack4Delhi",
             period: "2025",
             points: [
-                "Ranked Top 30 out of 2500+ participating teams",
+                "Winner out of 2500+ participating teams",
                 "Project: Railway Tampering & Anomaly Detection System",
                 "Implemented Mixture-of-Experts architecture for multi-sensor anomaly detection"
             ]
@@ -150,13 +150,13 @@ export const portfolioData: PortfolioData = {
         {
             title: "Railway Tampering & Anomaly Detection",
             description: "A comprehensive system designed for railway infrastructure monitoring that processes multiple sensor inputs to detect anomalies in real-time. The system uses a Mixture-of-Experts architecture to handle diverse sensor data types effectively, with geo-referenced anomaly detection for precise location tracking.",
-            year: "Hack4Delhi Top 30",
+            year: "Winner at Hack4Delhi",
             image: "/project-railway.jpg",
             tags: ["Python", "TensorFlow", "OpenCV", "FastAPI"],
             link: "#",
             github: "https://github.com/nahmahn/Railway_tampering",
             featured: true,
-            badge: "Hack4Delhi Top 30",
+            badge: "Winner at Hack4Delhi",
             points: [
                 "Mixture-of-Experts (MoE) for multi-sensor fusion",
                 "Real-time anomaly detection pipeline",
@@ -165,7 +165,7 @@ export const portfolioData: PortfolioData = {
                 "Multi-modal sensor integration"
             ],
             metrics: [
-                { value: "Top 30", label: "HACKATHON RANK" },
+                { value: "Winner", label: "HACKATHON RANK" },
                 { value: "2500+", label: "TEAMS COMPETED" }
             ]
         },
@@ -262,7 +262,7 @@ export const portfolioData: PortfolioData = {
         devops_tools: ["Docker", "Celery", "Linux", "Git", "VS Code", "Jupyter", "Arduino IDE"]
     },
     achievements: [
-        "Ranked Top 30 out of 2500+ teams at Hack4Delhi Hackathon",
+        "Winner out of 2500+ teams at Hack4Delhi Hackathon",
         "Awarded Rs 1,00,000 funding by DTTE, Government of Delhi",
         "Secured 3rd place at Nano Navigator Micromouse Competition, APOGEE 2025"
     ]
